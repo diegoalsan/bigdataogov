@@ -1,4 +1,4 @@
-Estudio Big Data, participación y colaboración política.
+Big Data, participación y colaboración política.
 ========================================================
 
 Este repositorio contiene los resultados y documentos intermedios del Estudio prospectivo sobre la participación y colaboración política desde la perspectiva del Big Data en el marco del gobierno abierto. Todo el material se publica con licencia Creative Commons Reconocimiento – CompartirIgual (by-sa).
