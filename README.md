@@ -10,4 +10,4 @@ Se incluyen los siguientes ítems:
 - Artículo final.
 - Presentación realizada en el II Congreso Internacional en Gobernanza y Asuntos Públicos celebrado celebrado en la Universidad Complutense de Madrid.
 - Cuestionarios realizados por el panel de expertos y expertas que ha participado en el estudio.
-- Hoja de cálculo con los resultados.
+- Enlace hoja de cálculo con los resultados.
